@@ -21,11 +21,13 @@
 <p align="center">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
+<br><br>
 
 
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newcodingtest&langs_count=10&layout=compact&theme=dark)](https://github.com/newcodingtest/newcodingtest)
-
+</p>
 
 
 
