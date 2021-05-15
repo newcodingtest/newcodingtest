@@ -25,6 +25,9 @@
 
 
 
+(Github Stat) [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=newcodingtest)] 
+
+(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newcodingtest)
 
 
 
