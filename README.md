@@ -10,6 +10,9 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
@@ -20,7 +23,9 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=IBM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </p>
 
 
