@@ -3,7 +3,9 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>   
+    <img src="https://img.shields.io/badge/kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/vue.js-4fc08d?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
@@ -23,6 +25,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kafka-#231f20?style=flat-square&logo=Kafka&logoColor=white"/>
     <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=IBM&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
