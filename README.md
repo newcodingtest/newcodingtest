@@ -25,7 +25,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kafka-#231f20?style=flat-square&logo=Kafka&logoColor=white"/>
     <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=IBM&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
